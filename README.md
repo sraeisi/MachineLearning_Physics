@@ -77,11 +77,7 @@ work with these Jupyter notebooks.
 
 | Topic                                 | Lectures                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Basics of machine learning            | Introduction and notation 
-Regression, logistic regression and classification, 
-overview and practical tips 
-Why? ML beyond simple examples 
-Overview of some of the most common techniques |             |
+| Basics of machine learning            | Introduction and notation <br> Regression, logistic regression and classification <br> overview and practical tips <br> Why? ML beyond simple examples <br> Overview of some of the most common techniques |             |
 | Data Preparation                      | Collection and generation Standardization Clean-up: nan and outliers Data reduction: PCA, variance threshold …                                                                                        |             |
 | Concepts from Statistical learning    | Variance and bias Learning curves Model selection and validation curve Practical methods for dealing with overfitting Bayesian inference                                                              |             |
 | A few tools before we get down to it… | Cost functions                                                                                                                                                                                        |             |
