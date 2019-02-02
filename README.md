@@ -79,31 +79,14 @@ work with these Jupyter notebooks.
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Basics of machine learning            | Introduction and notation <br> Regression, logistic regression and classification <br> overview and practical tips <br> Why? ML beyond simple examples <br> Overview of some of the most common techniques |             |
 | Data Preparation                      | Collection and generation <br> Standardization <br>Clean-up: nan and outliers <br> Data reduction: PCA, variance threshold …                                                                                        |             |
-| Concepts from Statistical learning    | Variance and bias <br> Learning curves 
-<br> Model selection and validation curve <br> Practical methods for dealing with overfitting <br> Bayesian inference                                                              |             |
+| Concepts from Statistical learning    | Variance and bias <br> Learning curves <br> Model selection and validation curve <br> Practical methods for dealing with overfitting <br> Bayesian inference                                                              |             |
 | A few tools before we get down to it… | Cost functions  <br>  Optimization algorithms                                                                                                                                                                                     |             |
-| Neural Networks                       | Feedforward <br> - Model Geometry and formulation <br> - Universality <br> - Non-linearity: Activation function                                                                                                                                                                                           |             |
+| Neural Networks                       | Feedforward <br> - Model Geometry and formulation <br> - Universality <br> - Non-linearity: Activation function <br>  Back propagation <br> - Details <br> -   Initialization <br>-   Optimizations <br> -   Batch and epoch <br> -   Couple of example <br> Practical implementations: <br> -   TensorFlow and Keras                                                                                                                                                                                       |             |
 | Convolutional Neural Networks         | Basic Idea and details Example(s)                                                                                                                                                                     |             |
 | Recurrent Neural Network              | Basic Idea and details Example(s)                                                                                                                                                                     |             |
 | Reinforced Learning                   | Basic Idea and details Example(s)                                                                                                                                                                     |             |
 
  
-<br> 
-Back propagation
-
--   Details
-
--   Initialization
-
--   Optimizations
-
--   Batch and epoch
-
--   Couple of example
-
-Practical implementations:
-
--   TensorFlow and Keras
 
 Cheat sheets and guides
 =======================
