@@ -1,5 +1,6 @@
 ---
 Machine Learning in Physics
+=============
 ---
 
 This is to facilitate the “Machine Learning in Physics” course that I am
