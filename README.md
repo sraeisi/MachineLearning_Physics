@@ -74,10 +74,13 @@ Table of contents
 The course material is posted here and you can use either [Google
 Colab](http://colab.research.google.com/) or [Mybinder](http://mybinder.org/) to
 work with these Jupyter notebooks.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sraeisi/MachineLearning_Physics/master)
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/) 
 
 | Topic                                 | Contents of the Lectures                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Basics of machine learning            | Introduction and notation <br> Regression, logistic regression and classification <br> overview and practical tips <br> Why? ML beyond simple examples <br> Overview of some of the most common techniques | [ Lecture 1](http://colab.research.google.com/)           |
+| Basics of machine learning            | Introduction and notation <br> Regression, logistic regression and classification <br> overview and practical tips <br> Why? ML beyond simple examples <br> Overview of some of the most common techniques |       Lecture 1 <br> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sraeisi/MachineLearning_Physics/master?filepath=Lec_1%2FMLP_lec_1_Introductory_notes_A.ipynb)   <br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_A.ipynb)     |
 | Data Preparation                      | Collection and generation <br> Standardization <br>Clean-up: nan and outliers <br> Data reduction: PCA, variance threshold …                                                                                        |             |
 | Concepts from Statistical learning    | Variance and bias <br> Learning curves <br> Model selection and validation curve <br> Practical methods for dealing with overfitting <br> Bayesian inference                                                              |             |
 | A few tools before we get down to it… | Cost functions  <br>  Optimization algorithms                                                                                                                                                                                     |             |
@@ -87,8 +90,6 @@ work with these Jupyter notebooks.
 | Reinforced Learning                   | Basic Idea and details Example(s)                                                                                                                                                                     |             |
 
  
-
-
 
 Cheat sheets and guides
 =======================
