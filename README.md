@@ -9,6 +9,11 @@ information, see the course page at
 
 <http://sharif.edu/~sraeisi/ML>
 
+
+Please Fill in the student list form
+====================================
+<https://goo.gl/forms/ZNp4X5MvuzGmOVKq2>
+
 Requirements:
 =============
 
