@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+#from google.colab import files
+
 
 
 '''Set the defaults for your plots.'''
@@ -18,9 +20,15 @@ plt.rc('ytick', labelsize=SMALL_SIZE)    # fontsize of the tick labels
 plt.rc('legend', fontsize=MEDIUM_SIZE)    # legend fontsize
 plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 
-plt.rc('axes', linewidth = 3 )
-plt.rc('lines', linewidth = 3 )
+plt.rc('axes', linewidth = 5 )
+plt.rc('lines', linewidth = 5 )
 
 plt.rc('lines', markersize = 5 )
 
 plt.rc('figure', figsize=(8,4) )         # Image size
+
+
+
+
+import warnings
+warnings.filterwarnings('ignore')
