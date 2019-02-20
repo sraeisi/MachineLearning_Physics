@@ -57,11 +57,11 @@ and apply everything that we cover to their project. Here are some of the
 expectations for the course project:
 
 -   Some initial proposal: Clear statement of the problem and some primary
-    assessment of why using ML could help answer this problem.
+    assessment of why using ML could help answer this problem. (Due Feb 28th)
 
--   Data collection/generation and preparation:
+-   Data collection/generation and preparation: (Due March 15th)
 
--   Application of the basic ML techniques
+-   Application of the basic ML techniques: (Due April 15th)
 
     -   A table of assessment (Will give an example later.)
 
@@ -69,9 +69,11 @@ expectations for the course project:
 
     -   Learning and validation curves
 
--   Oral presentation
+-    Application of NN and setting the hyperparameters (Due April 30th)
 
--   Written term paper
+-   Oral presentation (TBA)
+
+-   Written term paper (TBA)
 
 Table of contents 
 ==================
