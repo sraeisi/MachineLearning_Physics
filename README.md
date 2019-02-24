@@ -75,6 +75,13 @@ expectations for the course project:
 
 -   Written term paper (TBA)
 
+Assignments
+==================
+Assigment 1: You can submit the first assignment here:
+
+https://goo.gl/forms/WK4URJLc8LsxIVup2
+
+
 Table of contents 
 ==================
 
