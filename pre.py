@@ -29,7 +29,28 @@ plt.rc('lines', markersize = 5 )
 plt.rc('figure', figsize=(8,4) )         # Image size
 
 
+from zipfile import ZipFile
 
+
+from collections import Counter
 
 import warnings
 warnings.filterwarnings('ignore')
+
+from sklearn.utils import shuffle
+
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.linear_model import LinearRegression, Ridge, SGDClassifier
+from sklearn.svm import SVR
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import PolynomialFeatures , StandardScaler, RobustScaler
+from sklearn.metrics import mean_squared_error  ## To calculate the loss
+from sklearn.naive_bayes import GaussianNB
+from sklearn.tree import DecisionTreeRegressor
+
+from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
+
+from sklearn.svm import SVC
+from sklearn.neighbors import KNeighborsClassifier
+
+from sklearn.model_selection import learning_curve, validation_curve
