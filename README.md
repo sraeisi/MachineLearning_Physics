@@ -8,11 +8,6 @@ information, see the course page at
 
 <http://sharif.edu/~sraeisi/ML>
 
-
-Please Fill in the student list form
-====================================
-<https://goo.gl/forms/ZNp4X5MvuzGmOVKq2>
-
 Requirements:
 =============
 
@@ -80,6 +75,10 @@ Assigment 1: You can submit the first assignment here:
 
 https://goo.gl/forms/WK4URJLc8LsxIVup2
 
+Assigment 2: You can submit the first assignment here:
+
+https://goo.gl/forms/MLQ2PTLAzCXrYfBV2
+
 
 Table of contents 
 ==================
@@ -120,3 +119,11 @@ See the files in the CheatSheet folder.
 | Matplotlib Seaborn                    | These are two of the most common python library for visualization.                                                                                                 |
 | Scikit-Learn                          | It’s a python library that provides a nice and fairly efficient implementation of most the machine learning techniques and ideas.                                  |
 | Keras                                 | It is python library that provides a high-level and easy-to-use interface for Tensorflow and some other deep learning libraries.                                   |
+
+
+
+
+
+Please Fill in the student list form
+====================================
+<https://goo.gl/forms/ZNp4X5MvuzGmOVKq2>
