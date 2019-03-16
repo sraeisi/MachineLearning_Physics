@@ -53,7 +53,7 @@ expectations for the course project:
 -   Some initial proposal: Clear statement of the problem and some primary
     assessment of why using ML could help answer this problem. (Due Feb 28th)
 
--   Data collection/generation and preparation: (Due March 15th => Extended to March 20th)
+-   Data collection/generation and preparation: (Due March 15th => <span style="color:red">Extended to March 20th</span> )
     - Create a folder for this part
     - Have a description (readme file) for the data
     - Describe your data: Where it comes from, different feautres and their physical significance, your target value(s)
@@ -92,7 +92,7 @@ Assigment 1: You can submit the first assignment here:
 
 https://goo.gl/forms/WK4URJLc8LsxIVup2
 
-Assigment 2:  Deadline extended to March 22th
+Assigment 2:  <span style="color:red">Deadline extended to March 22th</span> 
 
 You can submit the first assignment here:
 
