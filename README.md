@@ -83,6 +83,7 @@ __Some notes:__
 - You should submit your work as a group rather than separate individual submissions.
 - Scripts, notebooks and figures without description would not count toward your grade.
 - Your codes should include enough comments and information that can be easily followed.
+- It is essential that all group members contribute (make commits) to their repositories, this is the only way I can make sure that everyone participated in their project. 
 
 
 
