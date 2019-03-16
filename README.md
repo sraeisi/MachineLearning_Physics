@@ -64,8 +64,6 @@ expectations for the course project:
         - Feature selection (Try different techniques and assess how well they work on your data)
         - Feature extraction (Try different techniques and assess how well they work on your data)
 
-(Make sure you include citations to all the resources you use!)
-
 -   Application of the basic ML techniques: (Due April 15th)
 
     -   A table of assessment (Will give an example later.)
@@ -79,6 +77,13 @@ expectations for the course project:
 -   Oral presentation (TBA)
 
 -   Written term paper (TBA)
+
+__Some notes:__
+- Make sure you include citations to all the resources you use!
+- You should submit your work as a group rather than separate individual submissions.
+- Scripts, notebooks and figures without description would not count toward your grade.
+- Your codes should include enough comments and information that can be easily followed.
+
 
 
 Assignments
