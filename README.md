@@ -54,6 +54,16 @@ expectations for the course project:
     assessment of why using ML could help answer this problem. (Due Feb 28th)
 
 -   Data collection/generation and preparation: (Due March 15th)
+    - Create a folder for this part
+    - Have a description (readme file) for the data
+    - Describe your data: Where it comes from, different feautres and their physical significance, your target value(s)
+    - Create a notebook and implement the following in different sections:
+        - Clean up the data (remove the missing data and convert everything to numerical values)
+        - Scale your data
+        - Analysis of features and target (Histograms and )
+        - Feature selection (Try different techniques and assess how well they work on your data)
+        - Feature extraction (Try different techniques and assess how well they work on your data)
+        - 
 
 -   Application of the basic ML techniques: (Due April 15th)
 
