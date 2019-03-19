@@ -92,7 +92,8 @@ Assignments
 
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
-|[Assigment 1](/master/Ass): You can submit the first assignment here:
+|[Assigment 1](Assignments/A_1/A1_Problems.ipynb)| [Submit it here](https://goo.gl/forms/WK4URJLc8LsxIVup2) | Solution 1 |
+|[Assigment 2](Assignments/A_1/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
 
 https://goo.gl/forms/WK4URJLc8LsxIVup2
 
