@@ -92,16 +92,9 @@ Assignments
 
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
-|[Assigment 1](Assignments/A_1/A1_Problems.ipynb)| [Submit it here](https://goo.gl/forms/WK4URJLc8LsxIVup2) | Solution 1 |
-|[Assigment 2](Assignments/A_1/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
+|[Assigment 1](Assignments/A1/A1_Problems.ipynb)| [Submit it here](https://goo.gl/forms/WK4URJLc8LsxIVup2) | Solution 1 |
+|[Assigment 2](Assignments/A2/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
 
-https://goo.gl/forms/WK4URJLc8LsxIVup2
-
-Assigment 2:  <span style="color:red">Deadline extended to March 22th</span> 
-
-You can submit the first assignment here:
-
-https://goo.gl/forms/MLQ2PTLAzCXrYfBV2
 
 
 Table of contents 
