@@ -11,7 +11,7 @@ information, see the course page at
 Requirements:
 =============
 
--   Decent understanding of programming and python syntax and the following
+-   Decent understanding of programming and python and the following
     libraries
 
     -   Numpy
@@ -89,7 +89,10 @@ __Some notes:__
 
 Assignments
 ==================
-Assigment 1: You can submit the first assignment here:
+
+| Assigment  | Deadline and Submission link | Solutions |
+|------------|------------------------------|-----------|
+|[Assigment 1](/master/Ass): You can submit the first assignment here:
 
 https://goo.gl/forms/WK4URJLc8LsxIVup2
 
