@@ -119,7 +119,7 @@ work with these Jupyter notebooks.
 | Neural Networks                       | Feedforward <br> - Model Geometry and formulation <br> - Universality <br> - Non-linearity: Activation function <br>  Back propagation <br> - Details <br> -   Initialization <br>-   Optimizations <br> -   Batch and epoch <br> -   Couple of example <br> Practical implementations: <br> -   TensorFlow and Keras                                                                                                                                                                                       |             |
 | Convolutional Neural Networks         | Basic Idea and details Example(s)                                                                                                                                                                     |             |
 | Recurrent Neural Network              | Basic Idea and details Example(s)                                                                                                                                                                     |             |
-| Reinforced Learning                   | Basic Idea and details Example(s)                                                                                                                                                                     |             |
+| Reinforcement Learning                   | Basic Idea and details Example(s)                                                                                                                                                                     |             |
 
  
 
