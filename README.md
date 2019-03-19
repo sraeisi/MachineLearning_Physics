@@ -109,7 +109,7 @@ work with these Jupyter notebooks.
 
 | Topic                                 | Lectures                                                                        |
 |---------------------------------------|---------------------------------------------------------------------------------|
-| Introductory Notes                    | Lecture 1_A: Introduction to Machine Learning <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_B.ipynb)   <br>  Some notes on what this course is about.   <br> Lecture 1_B: Introduction to Machine Learning <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_B.ipynb)   <br> Basic Idea and details and some Example(s)  |
+| Introductory Notes                    | Lecture 1_A: Introduction to Machine Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_B.ipynb)   <br>  Some notes on what this course is about.   <br> Lecture 1_B: Introduction to Machine Learning [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_B.ipynb)   <br> Basic Idea and details and some Example(s)  |
 
 
  
