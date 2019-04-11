@@ -132,7 +132,7 @@ See the files in the CheatSheet folder.
 
 | Item                                  | Description                                                                                                                                                        |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Jupyter](CheatSheets/Jupyter Notebook_CheatSheet.pdf)                               | It provides an interactive environment for programming. We will be mostly using the python 3 kernel.                                                               |
+| [Jupyter](CheatSheets/Jupyter Notebook_CheatSheet.pdf)    | It provides an interactive environment for programming. We will be mostly using the python 3 kernel.                                                               |
 | Git and Github                        | Git provides a strong infrastructure for version control. Github is web-based hosting service for version control and it also provides services for collaboration. |
 | Python                                | It is the programming language that we will be mostly using for this course.                                                                                       |
 | NumPy                                 | It’s a python library that provides strong and efficient tools for manipulation of high-dimensional arrays.                                                        |
