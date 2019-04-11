@@ -94,7 +94,7 @@ Assignments
 |------------|------------------------------|-----------|
 |[Assigment 1](Assignments/A1/A1_Problems.ipynb)| [Submit it here](https://goo.gl/forms/WK4URJLc8LsxIVup2) | Solution 1 |
 |[Assigment 2](Assignments/A2/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
-|[Assigment 3](Assignments/A3/A3_Farsi_Hand_written_digits.ipynb)| [Deadline: extended to April 18th](https://forms.gle/AQ1gL2wSYLLb8LT1A) |  |
+|[Assigment 3](Assignments/A3/A3_Farsi_Hand_written_digits.ipynb)| [Deadline: April 18th](https://forms.gle/AQ1gL2wSYLLb8LT1A) |  |
 
 
 
@@ -132,7 +132,7 @@ See the files in the CheatSheet folder.
 
 | Item                                  | Description                                                                                                                                                        |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Jupyter                               | It provides an interactive environment for programming. We will be mostly using the python 3 kernel.                                                               |
+| [Jupyter](CheatSheets/Jupyter Notebook_CheatSheet.pdf)                               | It provides an interactive environment for programming. We will be mostly using the python 3 kernel.                                                               |
 | Git and Github                        | Git provides a strong infrastructure for version control. Github is web-based hosting service for version control and it also provides services for collaboration. |
 | Python                                | It is the programming language that we will be mostly using for this course.                                                                                       |
 | NumPy                                 | It’s a python library that provides strong and efficient tools for manipulation of high-dimensional arrays.                                                        |
