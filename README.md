@@ -132,15 +132,15 @@ See the files in the CheatSheet folder.
 
 | Item                                  | Description                                                                                                                                                        |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Jupyter]("CheatSheets/Jupyter Notebook_CheatSheet.pdf")    | It provides an interactive environment for programming. We will be mostly using the python 3 kernel.                                                               |
-| Git and Github                        | Git provides a strong infrastructure for version control. Github is web-based hosting service for version control and it also provides services for collaboration. |
-| Python                                | It is the programming language that we will be mostly using for this course.                                                                                       |
-| NumPy                                 | It’s a python library that provides strong and efficient tools for manipulation of high-dimensional arrays.                                                        |
-| SciPy                                 | It’s a python library, built on NumPy for mathematical and scientific computing.                                                                                   |
-| Pandas_basics Pandas 2 Importing data | It’s a python library, built on NumPy that provides efficient tools for handling and analysis of data.                                                             |
-| Matplotlib Seaborn                    | These are two of the most common python library for visualization.                                                                                                 |
-| Scikit-Learn                          | It’s a python library that provides a nice and fairly efficient implementation of most the machine learning techniques and ideas.                                  |
-| Keras                                 | It is python library that provides a high-level and easy-to-use interface for Tensorflow and some other deep learning libraries.                                   |
+| [Jupyter](CheatSheets/Jupyter%20Notebook_CheatSheet.pdf)    | Jupyter provides an interactive environment for programming. We will be mostly using the python 3 kernel.                                                               |
+| [Git and Github](CheatSheets/git-CheatSheet.pdf)                        | Git provides a strong infrastructure for version control. Github is web-based hosting service for version control and it also provides services for collaboration. |
+| [Python](CheatSheets/Python_CheatSheet.pdf)                               | It is the programming language that we will be mostly using for this course.                                                                                       |
+| [NumPy](CheatSheets/NumPy_Basics_CheatSheet.pdf  )                               | It’s a python library that provides strong and efficient tools for manipulation of high-dimensional arrays.                                                        |
+| [SciPy](CheatSheets/ 	SciPy_CheatSheet.pdf)                                 | It’s a python library, built on NumPy for mathematical and scientific computing.                                                                                   |
+| [Pandas_basics Pandas 2](CheatSheets/Pandas_basics_CheatSheet.pdf ) <br> [Importing data](CheatSheets/Pandas_2_CheatSheet.pdf) | It’s a python library, built on NumPy that provides efficient tools for handling and analysis of data.                                                             |
+| [Matplotlib](CheatSheets/Matplotlib_CheatSheet.pdf) <br> [Seaborn](CheatSheets/Seaborn_CheatSheet.pdf)                    | These are two of the most common python library for visualization.                                                                                                 |
+| [Scikit-Learn](CheatSheets/Scikit-Learn_CheatSheet.pdf)                          | It’s a python library that provides a nice and fairly efficient implementation of most the machine learning techniques and ideas.                                  |
+| [Keras](CheatSheets/Keras_CheatSheet.pdf)                                 | It is python library that provides a high-level and easy-to-use interface for Tensorflow and some other deep learning libraries.                                   |
 
 
 
