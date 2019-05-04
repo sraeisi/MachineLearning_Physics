@@ -95,6 +95,7 @@ Assignments
 |[Assigment 1](Assignments/A1/A1_Problems.ipynb)| [Submit it here](https://goo.gl/forms/WK4URJLc8LsxIVup2) | Solution 1 |
 |[Assigment 2](Assignments/A2/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
 |[Assigment 3](Assignments/A3/A3_Farsi_Hand_written_digits.ipynb)| [Deadline: April 18th](https://forms.gle/AQ1gL2wSYLLb8LT1A) |  |
+|[Assigment 4]| [Deadline: May 14th](https://forms.gle/uyHW7HqvYHoWbQ5T6) |  |
 
 
 
