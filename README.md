@@ -37,7 +37,7 @@ This is a tentative plan and we may change it as we move on.
 
 -   In-class exercises 10%
 
--   Final exam: 30%
+-   Final exam (set for Wed, June 12th): 30% 
 
 These add up to 110% which include the bonus as well.
 
@@ -74,9 +74,9 @@ expectations for the course project:
 
 -    Application of NN and setting the hyperparameters (Due April 30th)
 
--   Oral presentation (TBA)
+-   Oral presentation (See me to set up the time, it should be before June 24th.)
 
--   Written term paper (TBA)
+-   Written term paper (See me to set up the time.)
 
 __Some notes:__
 - Make sure you include citations to all the resources you use!
@@ -96,7 +96,7 @@ Assignments
 |[Assigment 2](Assignments/A2/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
 |[Assigment 3](Assignments/A3/A3_Farsi_Hand_written_digits.ipynb)| [Deadline: April 18th](https://forms.gle/AQ1gL2wSYLLb8LT1A) |  |
 |[Assigment 4](Assignments/A4/Assignment4.md)| [Deadline: May 9th](https://forms.gle/uyHW7HqvYHoWbQ5T6) |  |
-|[Assigment 5](Assignments/A5/NN_datareduction.md)| [Deadline: May 19th](https://forms.gle/kSyTRbFwLzJpK77H9) |  |
+|[Assigment 5](Assignments/A5/NN_datareduction.md)| [Deadline: May 26th](https://forms.gle/kSyTRbFwLzJpK77H9) |  |
 
 
 
