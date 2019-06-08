@@ -99,6 +99,14 @@ Assignments
 |[Assigment 5](Assignments/A5/NN_datareduction.md)| [Deadline: May 26th](https://forms.gle/kSyTRbFwLzJpK77H9) |  |
 
 
+Reading Materials
+=============
+- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." Physics Reports (2019).
+
+- Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
+
+- Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
+
 
 Table of contents 
 ==================
