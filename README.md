@@ -76,7 +76,7 @@ expectations for the course project:
 
 -   Oral presentation (See me to set up the time, it should be before **June 24th**.)
 
--   Written term paper (See me to set up the time, it should be submitted by **July 5th**.)
+-   Written term paper (It should be submitted by **July 5th**.)
 
 __Some notes:__
 - Make sure you include citations to all the resources you use!
