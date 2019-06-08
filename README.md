@@ -74,9 +74,9 @@ expectations for the course project:
 
 -    Application of NN and setting the hyperparameters (Due April 30th)
 
--   Oral presentation (See me to set up the time, it should be before June 24th.)
+-   Oral presentation (See me to set up the time, it should be before **June 24th**.)
 
--   Written term paper (See me to set up the time.)
+-   Written term paper (See me to set up the time, it should be submitted by **July 5th**.)
 
 __Some notes:__
 - Make sure you include citations to all the resources you use!
