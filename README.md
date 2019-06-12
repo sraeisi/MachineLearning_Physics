@@ -37,7 +37,7 @@ This is a tentative plan and we may change it as we move on.
 
 -   In-class exercises 10%
 
--   Final exam (set for Wed, June 20th, 9AM): 30% 
+-   Final exam (set for Thursday, June 20th, 9AM): 30% 
 
 These add up to 110% which include the bonus as well.
 
