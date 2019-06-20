@@ -1,5 +1,8 @@
 This exam has three sections. 
 - Theory Questions: You will have 15 mins to answer these questions. The link will be provided for submitting you answers. (35 points)
+
+(https://forms.gle/83c9A2sFomCYttLt8)
+
 - In the second part, you will be provided with some sample data. Your task is to train a quick-and-dirty baseline model. 
 You have 20 mins for this part. (20 points)
 - Last section is similar to the second one, except, this time you are supposed to do a more through analysis, 
