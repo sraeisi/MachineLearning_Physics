@@ -1,13 +1,132 @@
 ---
+
+---
 Machine Learning in Physics
 ===
 
 This is to facilitate the “Machine Learning in Physics” course that I am
-teaching at Sharif University of Technology for winter-19 semester. For more
+teaching at Sharif University of Technology for winter-20 semester. For more
 information, see the course page at
 
 <http://sharif.edu/~sraeisi/ML>
 
+
+---
+Reading Materials
+=============
+- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." [Physics Reports (2019)](https://www.sciencedirect.com/science/article/pii/S0370157319300766).
+
+- Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
+
+- Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
+
+---
+Course Materials  
+==================
+
+The course material is posted here. If you come across a mistake or problem, please let me know. 
+
+Also, the videos of some(most) of the lectures are posted [here](https://www.aparat.com/v/jmxF1?playlist=340003). These videos are in Farsi.
+
+
+## Chapter 1: Basics of Machine Learning
+
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Introduction: Dipping a toe in the water            | [Introduction to ML](Lec1/MLP_1_Introduction.pdf)  |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
+<!--
+| Clustering  |  [Clustering](Lec1/MLP_2_Clustering.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
+| Regression and Classification  |  [Regression and Classification](Lec1/MLP_3_Regression_and_Classification.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Reg&Clf.ipynb) |
+## Chapter 2: Data
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Data: the basics | [Data](Chpt2/MLP_Chpt2_Data.pdf) |  |
+
+
+## Chapter 3: Model Selection and Evaluation
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Model Evaluation | [Metrics](Chpt3/MLP_Chpt3_Lec1_Model_Evaluation.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Evaluation.ipynb) |
+| Model Selection | [Statisticl Learning](Chpt3/MLP_Chpt3_Lec2_Model_Selection.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Selection.ipynb) |
+
+
+
+## Chapter 4: Neural Networks
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Introduction | [Intro](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_Intro.ipynb) |
+| Feedforward | [Feedforward](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_FeedForward.ipynb) |
+| Training: Back-propagation | [Back-propagation](Chpt4/MLP_Chpt4_Lec1_NN_BackPropagation.pdf) | [![Quizz](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt4/NN_implementation.ipynb) |
+| Libraries |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt4/NN_libraries.ipynb) |
+| Optimization of the training process | [Optimization](Chpt4/MLP_Chpt4_Lec1_NN_Optimization.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt4/Optimizing_the_Optimization.ipynb) |
+| Examples: Model Evaluationa & Tuning |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt4/NN_ModelEvaluationa&Tuning.ipynb)|
+
+
+## Chapter 5: Convolutional Neural Networks
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Convolution Operation | [Intro](Chpt5/MLP_Chpt5_Lec1_CNN_Convolution.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec1_CNN_Convolution.ipynb) |
+| Simple ConvNet | [Details of a ConvNet](Chpt5/MLP_Chpt5_Lec2_CNN_ConvNet.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec2_CNN_ConvNet.ipynb) |
+| Example |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec3_CNN_Example_Galaxy_ZooII.ipynb) |
+| Transfer Learning and Augmentation |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec4_CNN_TransferLearning.ipynb) |
+
+## Chapter 6: Recurrent Neural Networks
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Recurrent Neural Networks | [Intro](Chpt6/MLP_Chpt6_Lec1_RecurrentNeuralNetworks.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt6/MLP_Chpt6_Lec1_RNN.ipynb) |
+
+-->
+
+---
+Project
+=======
+|Milestone  | Due date| Submission Link |
+|-----------|---------|-----------------|
+|[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
+|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
+
+
+## Project Presentation
+For the next parts of your project, you are expected to submit a term paper and have an oral presentation. 
+
+The term papers are due three weeks from now (25st of Mordad). 
+
+The term paper is supposed to be a quality manuscript that can potentially be posted on arxiv. 
+
+This means that you should follow all the professional guidelines and codes of conduct, including proper citation of the relevant literature. Please see 
+
+https://www.aps.org/policy/statements/guidlinesethics.cfm
+
+for further information. 
+
+Please use the revtex4-2 with two columns for the latex document style. You can find samples on the internet or ask me. 
+
+Please put your term-paper with all the required files (figs, bib, ...) on your gitlab repo in a folder. 
+Please do not change the file after the deadline. 
+
+
+For the oral presentation, you are expected to give a 10 min talk followed by 2 min Q&A. 
+
+In the 10 min, you are expected to explain the problem that you are trying to solve, the way you represented the problem and your solution and finally your results. 
+This should be at a level that your classmates can easily follow. 
+
+Please note that your written and oral presentations are a significant part of your project. 
+
+
+
+---
+Marking Scheme
+==============
+
+This is a tentative plan and we may change it as we move on.
+
+-   Course Project: 60-80%
+
+-   Assignments: 20-40%
+
+-   Class Participation 5-10%
+
+---
 Requirements:
 =============
 
@@ -26,21 +145,12 @@ Requirements:
 
 -   Basic understanding of machine learning
 
-Marking Scheme
-==============
-
-This is a tentative plan and we may change it as we move on.
-
--   Course Project: 40%
-
--   Assignments: 30%
-
--   In-class exercises 10%
-
--   Final exam (set for Thursday, June 20th, 9AM): 30% 
+<!--
 
 These add up to 110% which include the bonus as well.
 
+
+---
 Course Projects
 ===============
 
@@ -85,56 +195,14 @@ __Some notes:__
 - Your codes should include enough comments and information that can be easily followed.
 - It is essential that all group members contribute (make commits) to their repositories, this is the only way I can make sure that everyone participated in their project. 
 
-
-
+---
 Assignments
 ==================
-
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
-|[Assigment 1](Assignments/A1/A1_Problems.ipynb)| [Submit it here](https://goo.gl/forms/WK4URJLc8LsxIVup2) | Solution 1 |
-|[Assigment 2](Assignments/A2/A2_Problems.ipynb)| [Deadline: extended to March 22th](https://goo.gl/forms/MLQ2PTLAzCXrYfBV2) | Solution 2 |
-|[Assigment 3](Assignments/A3/A3_Farsi_Hand_written_digits.ipynb)| [Deadline: April 18th](https://forms.gle/AQ1gL2wSYLLb8LT1A) |  |
-|[Assigment 4](Assignments/A4/Assignment4.md)| [Deadline: May 9th](https://forms.gle/uyHW7HqvYHoWbQ5T6) |  |
-|[Assigment 5](Assignments/A5/NN_datareduction.md)| [Deadline: May 26th](https://forms.gle/kSyTRbFwLzJpK77H9) |  |
+-->
 
-
-Reading Materials
-=============
-- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." Physics Reports (2019).
-
-- Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
-
-- Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
-
-
-Table of contents 
-==================
-
-The course material is posted here and you can use either [Google
-Colab](http://colab.research.google.com/) or [Mybinder](http://mybinder.org/) to
-work with these Jupyter notebooks.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sraeisi/MachineLearning_Physics/master)
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/) 
-
-
-
-| Topic                                 | Contents of the Lectures                                                                                                                                                                                              | Notebook(s) |
-|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Basics of machine learning            | Lecture 1: Introduction To Machine Learning <br> Notation <br> Regression, logistic regression and classification  <br><br> Lecture 1: Noise <br> ML beyond simple examples  |       [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_B.ipynb)   <br><br><br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_1/MLP_lec_1_Introductory_notes_C.ipynb) <br> |
-|Basic Techniques|Lecture 2: Basic Techniques <br>Overview of some of the most common techniques  <br><br> Lecture 2: Kernels|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_2/Basics_techniques.ipynb)  <br><br> <br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_2/Kernels.ipynb) |
-| Model Selection   | Lecture 3: Concepts from Statistical Learning <br> - Variance and bias <br> - Learning and Validation curves <br> Bayesian inference <br><br> Lecture 3: Model Complexity <br>- Practical model selection with scikit-learn <br><br> Lecture 3: Model Evaluation        <br> -Confusion Matrix <br> - Recall, precision, f-score <br> -  Precision-recall and ROC curve, ROC_AUC             |           [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_3/Model_Selection.ipynb)    <br><br><br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_3/Model_Selection_complexity.ipynb)    <br><br><br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_3/Model_Selection_Evaluation.ipynb)  |
-| Data Preparation   | Lecture 4: Data Preparation <br>- Standardization <br>- Clean-up: nan and outliers <br>- Feature Selection: Features Importance, variance threshold<br> <br><br><br> Lecture 4: Data Reduction   <br> Feautre Extraction: PCA, Manifold Learning        |       [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_4/Data.ipynb)    <br><br><br><br><br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_4/Data_Reduction.ipynb) |
-| Ensemble Techniques | Lecture 5: Ensemble Techniques <br> Aggregation, Stacking, Bagging, Boosting                                                                                                                                                                                   |  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_5/Ensemble_techniques.ipynb)            |
-| Neural Networks                       | Feedforward <br> - Model Geometry and formulation <br> - Universality <br> - Non-linearity: Activation function <br>  Back propagation <br> - Details <br> -   Initialization <br>-   Optimizations <br> -   Batch and epoch <br> -   Couple of example <br> Practical implementations: <br> -   TensorFlow and Keras                                                                                                                                                                                       |   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_6/Logistic_Regression.ipynb)       <br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_6/NN_FeedForward.ipynb) <br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_6/NN_implementation.ipynb ) <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_6/Optimizing_the_Optimization.ipynb )  <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_6/NN_Overfitting.ipynb )  |
-| Convolutional Neural Networks         | - Basic Idea of Convolution <br> - Simple implementation of convnet with Keras <br> - Well-known models        <br> Some examples                                                                                                                                                           |   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_7/Convolution.ipynb)   <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_7/Convnet.ipynb)   <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_7/Galaxy_ZooII.ipynb)      <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_7/Convnet_visulaization.ipynb)     |
-| Recurrent Neural Network              | - Basic Idea <br> - Example   |  [Note](Lec_8/Recurrent%20Neural%20Networks.pdf) <br>   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_8/Simple_RNN.ipynb) <br>  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/Lec_8/Sunspots.ipynb)       |
-| Reinforcement Learning                   | Basic Idea and details Example(s)                                                                                                                                                                     |             |
-
- 
-
-
+---
 Cheat sheets and guides
 =======================
 
@@ -151,8 +219,3 @@ See the files in the CheatSheet folder.
 | [Matplotlib](CheatSheets/Matplotlib_CheatSheet.pdf) <br> [Seaborn](CheatSheets/Seaborn_CheatSheet.pdf)                    | These are two of the most common python library for visualization.                                                                                                 |
 | [Scikit-Learn](CheatSheets/Scikit-Learn_CheatSheet.pdf)                          | It’s a python library that provides a nice and fairly efficient implementation of most the machine learning techniques and ideas.                                  |
 | [Keras](CheatSheets/Keras_CheatSheet.pdf)                                 | It is python library that provides a high-level and easy-to-use interface for Tensorflow and some other deep learning libraries.                                   |
-
-
-
-
-
