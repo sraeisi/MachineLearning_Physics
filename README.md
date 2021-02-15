@@ -95,12 +95,11 @@ The term paper is supposed to be a quality manuscript that can potentially be po
 
 This means that you should follow all the professional guidelines and codes of conduct, including proper citation of the relevant literature. For more information, feel free to take a look at the research guideline in my group at 
 
-http://sharif.edu/~sraeisi/files/Guideline.pdf.
+http://sharif.edu/~sraeisi/files/Guideline.pdf
 
-<!--
-or 
+ the APS guideline for ethics at 
 
-https://www.aps.org/policy/statements/guidlinesethics.cfm
+https://www.aps.org/policy/statements/guidlinesethics.cfm. 
 
 for further information. -->
 
