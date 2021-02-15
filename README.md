@@ -93,11 +93,16 @@ The term papers are due three weeks from now (25st of Mordad).
 
 The term paper is supposed to be a quality manuscript that can potentially be posted on arxiv. 
 
-This means that you should follow all the professional guidelines and codes of conduct, including proper citation of the relevant literature. Please see 
+This means that you should follow all the professional guidelines and codes of conduct, including proper citation of the relevant literature. For more information, feel free to take a look at the research guideline in my group at 
+
+http://sharif.edu/~sraeisi/files/Guideline.pdf.
+
+<!--
+or 
 
 https://www.aps.org/policy/statements/guidlinesethics.cfm
 
-for further information. 
+for further information. -->
 
 Please use the revtex4-2 with two columns for the latex document style. You can find samples on the internet or ask me. 
 
