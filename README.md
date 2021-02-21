@@ -5,10 +5,20 @@ Machine Learning in Physics
 ===
 
 This is to facilitate the “Machine Learning in Physics” course that I am
-teaching at Sharif University of Technology for winter-20 semester. For more
+teaching at Sharif University of Technology for winter-21 semester. For more
 information, see the course page at
 
 <http://sharif.edu/~sraeisi/ML>
+
+---
+Classes
+===
+
+We have our sessions on Saturday and Monday, 5-6.30 PM Tehran time (GMT+3:30).
+
+The course is presented on online and the link of the class is:
+
+https://vc.sharif.edu/ch/sraeisi
 
 
 ---
