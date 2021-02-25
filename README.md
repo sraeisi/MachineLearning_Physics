@@ -99,8 +99,8 @@ Project
 =======
 |Milestone  | Due date| Submission Link |
 |-----------|---------|-----------------|
-|[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
-|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
+|[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)|
+<!--|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)| -->
 
 
 ## Project Presentation
