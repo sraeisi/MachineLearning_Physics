@@ -30,6 +30,12 @@ Reading Materials
 
 - Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
 
+Assignments
+==================
+| Assigment  | Deadline and Submission link | Solutions |
+|------------|------------------------------|-----------|
+| data   | [March 5th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
+
 ---
 Course Materials  
 ==================
@@ -211,10 +217,6 @@ __Some notes:__
 - It is essential that all group members contribute (make commits) to their repositories, this is the only way I can make sure that everyone participated in their project. 
 
 ---
-Assignments
-==================
-| Assigment  | Deadline and Submission link | Solutions |
-|------------|------------------------------|-----------|
 -->
 
 ---
