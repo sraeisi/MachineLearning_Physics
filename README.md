@@ -34,7 +34,7 @@ Assignments
 ==================
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
-| data   | [March 5th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
+| [Data](Assignments/A1/A1.pdf)   | [March 5th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
 
 ---
 Course Materials  
