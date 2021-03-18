@@ -121,7 +121,7 @@ http://sharif.edu/~sraeisi/files/Guideline.pdf
 
 https://www.aps.org/policy/statements/guidlinesethics.cfm. 
 
-for further information. -->
+for further information. 
 
 Please use the revtex4-2 with two columns for the latex document style. You can find samples on the internet or ask me. 
 
@@ -135,7 +135,7 @@ In the 10 min, you are expected to explain the problem that you are trying to so
 This should be at a level that your classmates can easily follow. 
 
 Please note that your written and oral presentations are a significant part of your project. 
-
+-->
 
 
 ---
