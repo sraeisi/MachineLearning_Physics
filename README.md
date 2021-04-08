@@ -35,6 +35,7 @@ Assignments
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
 | [Data](Assignments/A1/A1.pdf)   | [March 5th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
+| [Model implementation](Assignments/A2/A2.pdf)   | [April 16](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
 
 ---
 Course Materials  
