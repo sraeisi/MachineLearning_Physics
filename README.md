@@ -30,6 +30,8 @@ Reading Materials
 
 - Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
 
+-Albon, Chris. Machine learning with python cookbook: Practical solutions from preprocessing to deep learning. " O'Reilly Media, Inc.", 2018.
+
 Assignments
 ==================
 | Assigment  | Deadline and Submission link | Solutions |
