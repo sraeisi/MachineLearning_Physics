@@ -59,8 +59,10 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 | Optimization         | [Optimization](1/MLP_Basics_Optimization.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Optimization.ipynb) |
 | Metrics         | [Metrics](1/MLP_Basics_Metrics.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Metrics.ipynb) |
 | Model Selection         | [Model Selection](1/MLP_Basics_Model_Selection.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Model_Selection.ipynb) |
+| **Section 2**        | **Neural Networks**   |     |
+| Introduction: Feed Forward         | [Feed Forward](2/MLP_NN_Feed Forward.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_Introduction.ipynb) |
 
-MLP_Basics_Model_Selection
+
 <!--
 | Clustering  |  [Clustering](Lec1/MLP_2_Clustering.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
 | Regression and Classification  |  [Regression and Classification](Lec1/MLP_3_Regression_and_Classification.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Reg&Clf.ipynb) |
