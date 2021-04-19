@@ -61,7 +61,7 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 | Metrics         | [Metrics](1/MLP_Basics_Metrics.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Metrics.ipynb) |
 | Model Selection         | [Model Selection](1/MLP_Basics_Model_Selection.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Model_Selection.ipynb) |
 | **Section 2**        | **Neural Networks**   |     |
-| Introduction: Feed Forward         | [Feed Forward](2/MLP_NN_FeedForward.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_Introduction.ipynb) |
+| Introduction: Feed Forward         | [Feed Forward](2/MLP_NN_FeedForward.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_FeedForward.ipynb) |
 
 
 <!--
