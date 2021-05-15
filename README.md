@@ -65,7 +65,8 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 | Back Propagation         | [Back Propagation](2/MLP_NN_BackPropagation.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_BackPropagation.ipynb) |
 | NN Libraries        |   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_Libraries.ipynb) |
 | Examples: Model Evaluationa & Tuning	        |   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_ModelEvaluationa&Tuning.ipynb) |
-
+| **Section 3**        | **More on Neural Networks**   |     |
+| Convolutional Neural Networks     | [Convolutional Neural Networks](3/MLP_NN_CNN.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/3/MLP_CNN_Convolution.ipynb) |
 
 <!--
 | Clustering  |  [Clustering](Lec1/MLP_2_Clustering.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
