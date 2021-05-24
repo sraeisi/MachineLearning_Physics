@@ -67,7 +67,9 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 | Examples: Model Evaluationa & Tuning	        |   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/2/MLP_NN_ModelEvaluationa&Tuning.ipynb) |
 | **Section 3**        | **More on Neural Networks**   |     |
 | Convolutional Neural Networks     | [Convolutional Neural Networks](3/MLP_NN_CNN.pdf)   |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/3/MLP_CNN_Convolution.ipynb) |
-
+| Implementation of CNN | |  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/3/MLP_CNN_ConvNet.ipynb)|
+|Transfer Learning|| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/3/MLP_CNN_Example_Galaxy_ZooII.ipynb)|
+|Recurrent Neural Networks| [Recurrent Neural Networks](3/MLP_NN_RecurrentNeuralNetworks.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/3/MLP_NN_RNN.ipynb)|
 <!--
 | Clustering  |  [Clustering](Lec1/MLP_2_Clustering.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
 | Regression and Classification  |  [Regression and Classification](Lec1/MLP_3_Regression_and_Classification.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Reg&Clf.ipynb) |
@@ -118,6 +120,7 @@ Project
 |-----------|---------|-----------------|
 |[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)|
 |[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 30th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)| 
+|Neural Networks: Same as MS2 but with NN| June 21st|[Submit here.](https://forms.gle/noppi764GdE13Cec7)| 
 <!--|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)| 
 
 
