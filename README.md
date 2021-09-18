@@ -128,10 +128,10 @@ Project
 =======
 |Milestone  | Due date| Submission Link |
 |-----------|---------|-----------------|
-|[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)|
-|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 30th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)| 
-|Neural Networks: Same as MS2 but with NN| June 21st|[Submit here.](https://forms.gle/noppi764GdE13Cec7)| 
-<!--|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)| 
+|[Data](Project/Milestone1_data.pdf)| Mehr 30th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)|
+|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| Aban 30th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)| 
+|Neural Networks: Same as MS2 but with NN| Azar 30th|[Submit here.](https://forms.gle/noppi764GdE13Cec7)| 
+<!--|[Traditional ML techniques](Project/Milestone2_TraditionalTechniques.pdf)| Dey 30th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)| 
 
 
 ## Project Presentation
@@ -172,9 +172,10 @@ Marking Scheme
 
 This is a tentative plan and we may change it as we move on.
 
--   Course Project: 60-80%
+-   Course Project: 40-60%
 
 -   Assignments: 20-40%
+-   Exam: 0-30%
 
 -   Class Participation 5-10%
 
