@@ -32,13 +32,7 @@ Reading Materials
 
 - Albon, Chris. Machine learning with python cookbook: Practical solutions from preprocessing to deep learning. " O'Reilly Media, Inc.", 2018.
 
-<!--Assignments
-==================
-| Assigment  | Deadline and Submission link | Solutions |
-|------------|------------------------------|-----------|
-| [Data](Assignments/A1/A1.pdf)   | [March 5th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
-| [Model implementation](Assignments/A2/A2.pdf)   | [April 16](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
--->
+<!--
 
 Take-home exam
 ==================
@@ -46,6 +40,14 @@ Take-home exam
 |------------|------------------------------|
 | [Part I](https://drive.google.com/file/d/13g1-YFetWdnLjMm4lWqqrqI5HqSWCfRn/view?usp=sharing)    | [25 Hordad](https://forms.gle/iHNp6ya7WW12QAs89) |    
 | [Part II](https://drive.google.com/file/d/13g1-YFetWdnLjMm4lWqqrqI5HqSWCfRn/view?usp=sharing)   | [3 Tir](https://forms.gle/khHBhKvRvyti5LSe7) |   
+
+| [Model implementation](Assignments/A2/A2.pdf)   | [April 16](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
+-->
+Assignments
+==================
+| Assigment  | Deadline and Submission link | Solutions |
+|------------|------------------------------|-----------|
+| [A1: Problem statement and ](https://docs.google.com/document/d/1acHKAsHSYPqHKNrohi2ig691Vpvwpyyip0p9WrD3I0E/export?format=pdf)   | [Mehr 10th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
 
 ---
 Course Materials  
