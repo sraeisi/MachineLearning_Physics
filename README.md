@@ -14,7 +14,7 @@ information, see the course page at
 Classes
 ===
 
-We have our sessions on Saturday and Monday, 5-6.30 PM Tehran time (GMT+3:30).
+We have our sessions on Saturday and Monday, 15-16.30 Tehran time (GMT+3:30).
 
 The course is presented on online and the link of the class is:
 
