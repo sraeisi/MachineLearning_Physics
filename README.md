@@ -61,7 +61,7 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 ## Chapter 1: Basics of Machine Learning
 
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) | Videos      |
-|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------|
 | **Section 1**        | **Basics of Machine Learning**   |     |
 | Introduction            | [Introduction to ML](1/MLP_intro.pdf)  |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Intro.ipynb) | [Link](https://aparat.com/v/5Uz8C)  |
 | Data         | [Data](1/MLP_Basics_Data.pdf)  |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/blob/master/1/MLP_Basics_Data.ipynb) |
