@@ -47,7 +47,8 @@ Assignments
 ==================
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
-| [A1: Problem statement and ](https://docs.google.com/document/d/1acHKAsHSYPqHKNrohi2ig691Vpvwpyyip0p9WrD3I0E/export?format=pdf)   | [Mehr 10th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
+| [A1: Problem statement](https://docs.google.com/document/d/1acHKAsHSYPqHKNrohi2ig691Vpvwpyyip0p9WrD3I0E/export?format=pdf)   | [Mehr 10th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
+| [A2: Data](https://docs.google.com/document/d/1vSZzv_HdRFtawXaQ6LM0Guop9IUlMl4i7adnJ1w8ebs/export?format=pdf)   | [Mehr 24th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
 
 ---
 Course Materials  
