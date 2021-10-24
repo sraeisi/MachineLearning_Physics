@@ -49,7 +49,7 @@ Assignments
 |------------|------------------------------|-----------|
 | [A1: Problem statement](https://docs.google.com/document/d/1acHKAsHSYPqHKNrohi2ig691Vpvwpyyip0p9WrD3I0E/export?format=pdf)   | [Mehr 10th](https://forms.gle/z16FVaHVadQ4Q5NX9) |    |
 | [A2: Data](https://docs.google.com/document/d/1vSZzv_HdRFtawXaQ6LM0Guop9IUlMl4i7adnJ1w8ebs/export?format=pdf)   | [Mehr 24th](https://forms.gle/VNVm9vBijD4AuA9W6) |    |
-| [A3: Model, Loss](https://docs.google.com/document/d/1JXpKcEdL_eCLrX1wo7I4djLny-xf2fviqoGRiZtW_mY/export?format=pdf)   | [Aban 8th](https://forms.gle/DSg51jzqo2r8oJZp6) |    |
+| [A3: Model, Lossو Optimization](https://docs.google.com/document/d/1JXpKcEdL_eCLrX1wo7I4djLny-xf2fviqoGRiZtW_mY/export?format=pdf)   | [Aban 8th](https://forms.gle/DSg51jzqo2r8oJZp6) |    |
 
 ---
 Course Materials  
