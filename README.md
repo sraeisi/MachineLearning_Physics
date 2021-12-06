@@ -28,10 +28,12 @@ Reading Materials
 
 - Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
 
-- Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
+- Chollet, Francois. Deep learning with Python. Simon and Schuster, 2021. <!-- ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf). -->
 
 - Albon, Chris. Machine learning with python cookbook: Practical solutions from preprocessing to deep learning. " O'Reilly Media, Inc.", 2018.
 
+- Stevens, Eli, Luca Antiga, and Thomas Viehmann. [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf). Manning Publications, 2020. 
+- 
 <!--
 
 Take-home exam
