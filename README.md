@@ -62,8 +62,8 @@ The course material is posted here. If you come across a mistake or problem, ple
 
 Also, the videos of some(most) of the lectures are posted [here](https://www.aparat.com/v/jmxF1?playlist=340003). These videos are in Farsi.
 
-
-## Chapter 1: Basics of Machine Learning
+<!--
+## Chapter 1: Basics of Machine Learning -->
 
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) | Videos      |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------|
